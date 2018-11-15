@@ -1,4 +1,4 @@
-For Preview, please visit [PlayNine](https://kumaradarshkanungo.github.io/PlayNine)
+For Preview, please visit [PlayNine](https://kumaradarshkanungo.github.io)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
